@@ -5,7 +5,6 @@ Bem-vindo ao repositório de aprendizado do Sass! Este projeto contém todos os 
 ## Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Como Usar](#como-usar)
 - [Exemplos Incluídos](#exemplos-incluídos)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Recursos Adicionais](#recursos-adicionais)
@@ -14,22 +13,6 @@ Bem-vindo ao repositório de aprendizado do Sass! Este projeto contém todos os 
 ## Sobre o Projeto
 
 Este repositório foi criado para organizar e documentar meu aprendizado sobre o Sass (Syntactically Awesome Style Sheets). Aqui você encontrará exemplos de código, práticas recomendadas e experimentos realizados com Sass.
-
-## Como Usar
-
-1. Clone o repositório:
-    ```sh
-    git clone https://github.com/seu-usuario/meu-projeto-sass.git
-    ```
-2. Navegue até o diretório do projeto:
-    ```sh
-    cd meu-projeto-sass
-    ```
-3. Compile os arquivos Sass para CSS:
-    ```sh
-    sass ./sass/estilo.scss ./css/estilo.css
-    ```
-4. Abra o arquivo `index.html` no seu navegador para ver os estilos aplicados.
 
 ## Exemplos Incluídos
 
